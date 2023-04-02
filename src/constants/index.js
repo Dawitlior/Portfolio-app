@@ -185,6 +185,30 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Finance-Dashboard",
+    description: `This Web-application going to consist of KPIs and information that business persons can use to display their information about key performance indicators, and other types of data that they need to keep track of their finances for their company.`,
+    tags: [
+      {
+        name: "Recharts",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "React",
+        color: "white-text-gradient",
+      },
+      {
+        name: "Mui",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Node.js",
+        color: "green-text-gradient",
+      },
+    ],
+    image: finance,
+    source_code_link: "https://github.com/Dawitlior/Finance-Project",
+  },
+  {
     name: "Admin-Dashboard",
     description: `end-to-end application that can help you manage
        the information you have in a convenient and modern way`,
@@ -212,30 +236,6 @@ const projects = [
     ],
     image: current2,
     source_code_link: "https://github.com/Dawitlior/Admin-Dashboard.",
-  },
-  {
-    name: "Finance-Dashboard",
-    description: `This Web-application going to consist of KPIs and information that business persons can use to display their information about key performance indicators, and other types of data that they need to keep track of their finances for their company.`,
-    tags: [
-      {
-        name: "Recharts",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "React",
-        color: "white-text-gradient",
-      },
-      {
-        name: "Mui",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Node.js",
-        color: "green-text-gradient",
-      },
-    ],
-    image: finance,
-    source_code_link: "https://github.com/Dawitlior/Finance-Project",
   },
   {
     name: "Social-Media",
