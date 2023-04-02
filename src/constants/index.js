@@ -47,10 +47,6 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
     title: "Backend Developer",
     icon: backend,
   },
@@ -110,8 +106,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "IDF spacial forces",
+    company_name: "Paratroopers",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
