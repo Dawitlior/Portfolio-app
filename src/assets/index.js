@@ -25,15 +25,13 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import idf from './company/idf.png'
+import tashan from "./company/tashan.png";
+import tashan1 from "./company/tashan1.png";
 
 import socialmedia from "./socialmedia.png";
 import finance from "./finance.png";
 import current2 from './current2.png';
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 
 export {
   logo,
@@ -59,14 +57,12 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
   current2,
   socialmedia,
   finance,
   logo11,
   logo22,
+  idf,
+  tashan,
+  tashan1
 };

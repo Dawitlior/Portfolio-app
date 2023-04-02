@@ -47,13 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Motivated Full-Stack Developer. A sociable person with good teamwork
-        skills learned through military training and enhanced by sporting
-        activities. Also works well independently. Technology enthusiast with a
-        strong passion for all things related to technology. With a keen eye for
-        detail and an unwavering commitment to staying up-to-date with the
-        latest advancements, I am always eager to explore and learn about new
-        technologies.
+        Disciplined and persistent Full-Stack Developer. A sociable person with
+        good teamwork skills learned through military training and enhanced by
+        sporting activities. <br/>Technology enthusiast with a strong passion for all things related to technology.<br/>
+        With a keen eye for detail and an unwavering commitment to staying
+        up-to-date with the latest advancements, I am always eager to explore
+        and learn about new technologies.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
