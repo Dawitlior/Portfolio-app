@@ -120,22 +120,20 @@ const experiences = [
     company_name: "O&E infrastructure",
     icon: tashan1,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jun 2019 - July 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Managing and performing tasks under pressure and meeting deadlines",
+      "Security around the clock while working as a team",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Tech Career",
+    company_name: "Development course",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Feb 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Studies around the clock: a combination of studies with a lecturer in the classroom, self-learning online, self-practice and in groups",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -146,7 +144,7 @@ const experiences = [
     company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Feb 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -240,7 +238,7 @@ const projects = [
   {
     name: "Social-Media",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An end-to-end project, in which I use mern technology, allows everyone to join a small social network, where they can upload posts with and without photos, send friend requests, and like each other's posts.",
     tags: [
       {
         name: "React",

@@ -6,7 +6,6 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-import logo11 from "./logo11.png";
 import logo22 from "./logo22.png";
 
 import css from "./tech/css.png";
@@ -60,9 +59,8 @@ export {
   current2,
   socialmedia,
   finance,
-  logo11,
   logo22,
   idf,
   tashan,
-  tashan1
+  tashan1,
 };
