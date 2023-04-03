@@ -49,7 +49,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "MERN Stack",
     icon: creator,
   },
 ];
