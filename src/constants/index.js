@@ -42,7 +42,7 @@ export const navLinks = [
 const services = [
   {
     title: "Web Developer",
-    icon: web,
+    icon: creator,
   },
   {
     title: "Backend Developer",
@@ -50,7 +50,7 @@ const services = [
   },
   {
     title: "MERN Stack",
-    icon: creator,
+    icon: web,
   },
 ];
 
@@ -134,19 +134,6 @@ const experiences = [
     date: "Feb 2022 - Jan 2023",
     points: [
       "Studies around the clock: a combination of studies with a lecturer in the classroom, self-learning online, self-practice and in groups",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Feb 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
