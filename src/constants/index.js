@@ -99,7 +99,6 @@ const technologies = [
     name: "git",
     icon: git,
   },
- 
 ];
 
 const experiences = [
