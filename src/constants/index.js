@@ -13,15 +13,14 @@ import {
   nodejs,
   mongodb,
   git,
-  meta,
   shopify,
   threejs,
   current2,
   finance,
   socialmedia,
   idf,
-  tashan,
   tashan1,
+  book,
 } from "../assets";
 
 export const navLinks = [
@@ -128,7 +127,7 @@ const experiences = [
   {
     title: "Tech Career",
     company_name: "Development course",
-    icon: shopify,
+    icon: book,
     iconBg: "#383E56",
     date: "Feb 2022 - Jan 2023",
     points: [

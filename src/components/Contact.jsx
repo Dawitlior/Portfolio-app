@@ -96,7 +96,6 @@ const Contact = () => {
             <input
               type="email"
               name="email"
-              require
               value={form.email}
               onChange={handleChange}
               placeholder="What's your web address?"
