@@ -29,6 +29,7 @@ import idf from './company/idf.png'
 import tashan from "./company/tashan.png";
 import tashan1 from "./company/tashan1.png";
 
+import fitness from "./fitness.png";
 import socialmedia from "./socialmedia.png";
 import finance from "./finance.png";
 import current2 from './current2.png';
@@ -65,4 +66,5 @@ export {
   tashan,
   tashan1,
   book,
+  fitness,
 };

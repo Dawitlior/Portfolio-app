@@ -21,6 +21,7 @@ import {
   idf,
   tashan1,
   book,
+  fitness
 } from "../assets";
 
 export const navLinks = [
@@ -240,6 +241,27 @@ const projects = [
     ],
     image: socialmedia,
     source_code_link: "https://github.com/Dawitlior/S-M-SERVER",
+  },
+  {
+    name: "EVOGYM",
+    description:
+      "A Front-end application, is a modern and sophisticated web application built using the latest web technologies and tools.",
+    tags: [
+      {
+        name: "React vite",
+        color: "white-text-gradient",
+      },
+      {
+        name: "Typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: fitness,
+    source_code_link: "https://github.com/Dawitlior/EVOGYM",
   },
 ];
 
