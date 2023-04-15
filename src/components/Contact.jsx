@@ -1,11 +1,17 @@
 import React, { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
-
+import { Notyf } from "notyf";
+import "notyf/notyf.min.css";
 import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
+
+const notyf = new Notyf({
+  duration: 5000,
+  position: { x: "center", y: "top" },
+});
 
 const Contact = () => {
   const formRef = useRef();
@@ -47,7 +53,13 @@ const Contact = () => {
       .then(
         () => {
           setLoading(false);
-          alert("Thank you. I will get back to you as soon as possible.");
+
+          notyf.success({
+            message: "Thank you. I will get back to you as soon as possible.",
+            icon: false,
+            dismissible: true,
+            background: "linear-gradient(to right, #00b4db, #0083b0)",
+          });
 
           setForm({
             name: "",
@@ -59,7 +71,12 @@ const Contact = () => {
           setLoading(false);
           console.error(error);
 
-          alert("Either it's your mistake, or mine");
+          notyf.failure({
+            message: "Either it's your mistake, or mine",
+            icon: false,
+            dismissible: true,
+            background: "linear-gradient(to right, #ff6e6e, #e84c3d)",
+          });
         }
       );
   };
