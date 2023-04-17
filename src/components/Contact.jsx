@@ -10,7 +10,7 @@ import { slideIn } from "../utils/motion";
 
 const notyf = new Notyf({
   duration: 5000,
-  position: { x: "center", y: "top" },
+  position: { x: "center", y: "bottom" },
 });
 
 const Contact = () => {
