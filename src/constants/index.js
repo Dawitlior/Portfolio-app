@@ -262,27 +262,27 @@ const projects = [
     image: fitness,
     source_code_link: "https://github.com/Dawitlior/EVOGYM",
   },
-  {
-    name: "ShoppingAce",
-    description:
-      "ShoppingAce is a full-stack e-commerce application built using the latest technologies, including React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit.",
-    tags: [
-      {
-        name: "React vite",
-        color: "white-text-gradient",
-      },
-      {
-        name: "Strapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Material UI",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: shopping,
-    source_code_link: "https://github.com/Dawitlior/E-commerce",
-  },
+  // {
+  //   name: "ShoppingAce",
+  //   description:
+  //     "ShoppingAce is a full-stack e-commerce application built using the latest technologies, including React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit.",
+  //   tags: [
+  //     {
+  //       name: "React vite",
+  //       color: "white-text-gradient",
+  //     },
+  //     {
+  //       name: "Strapi",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "Material UI",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: shopping,
+  //   source_code_link: "https://github.com/Dawitlior/E-commerce",
+  // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
