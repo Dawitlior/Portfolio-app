@@ -1,5 +1,4 @@
 import {
-  mobile,
   backend,
   creator,
   web,
@@ -13,7 +12,6 @@ import {
   nodejs,
   mongodb,
   git,
-  shopify,
   threejs,
   current2,
   finance,

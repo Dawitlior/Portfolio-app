@@ -23,8 +23,6 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import book from './company/book.png'
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
 import idf from './company/idf.png'
 import tashan from "./company/tashan.png";
 import tashan1 from "./company/tashan1.png";
@@ -57,8 +55,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
   current2,
   socialmedia,
   finance,
