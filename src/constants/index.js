@@ -20,7 +20,7 @@ import {
   tashan1,
   book,
   fitness,
-  shopping,
+  // shopping,
 } from "../assets";
 
 export const navLinks = [
