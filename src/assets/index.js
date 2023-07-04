@@ -32,6 +32,7 @@ import fitness from "./fitness.png";
 import socialmedia from "./socialmedia.png";
 import finance from "./finance.png";
 import current2 from './current2.png';
+import blog from "./blog.png";
 
 export {
   logo,
@@ -65,4 +66,5 @@ export {
   book,
   fitness,
   shopping,
+  blog,
 };

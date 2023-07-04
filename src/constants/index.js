@@ -20,6 +20,8 @@ import {
   tashan1,
   book,
   fitness,
+  blog,
+  // blog
   // shopping,
 } from "../assets";
 
@@ -262,27 +264,27 @@ const projects = [
     image: fitness,
     source_code_link: "https://github.com/Dawitlior/EVOGYM",
   },
-  // {
-  //   name: "ShoppingAce",
-  //   description:
-  //     "ShoppingAce is a full-stack e-commerce application built using the latest technologies, including React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit.",
-  //   tags: [
-  //     {
-  //       name: "React vite",
-  //       color: "white-text-gradient",
-  //     },
-  //     {
-  //       name: "Strapi",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "Material UI",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: shopping,
-  //   source_code_link: "https://github.com/Dawitlior/E-commerce",
-  // },
+  {
+    name: "Blog-Ai-App",
+    description:
+      "complete full-stack application built with Next.js 13.3 that automatically generates blog post content using ChatGPT.",
+    tags: [
+      {
+        name: "React vite",
+        color: "white-text-gradient",
+      },
+      {
+        name: "prisma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Next.js 13.3",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: blog,
+    source_code_link: "https://github.com/Dawitlior/blog-ai-app",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
