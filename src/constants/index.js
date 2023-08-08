@@ -21,11 +21,11 @@ import {
   book,
   fitness,
   blog,
-  // blog
   // shopping,
   eazybuy,
   genius,
   bnb,
+  spotify,
 } from "../assets";
 
 export const navLinks = [
@@ -350,6 +350,27 @@ const projects = [
     ],
     image: bnb,
     source_code_link: "https://github.com/Dawitlior/Rentbnb",
+  },
+  {
+    name: "spotify",
+    description:
+      "Full Stack Spotify web application with Next.js 13.4 App Router is a web application that emulates the functionality of Spotify, a popular music streaming platform. It has been built using various technologies such as React, Tailwind CSS, Supabase, PostgreSQL, and Stripe.",
+    tags: [
+      {
+        name: "Next 13.4",
+        color: "white-text-gradient",
+      },
+      {
+        name: "Supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "PostgreSQL",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: spotify,
+    source_code_link: "https://github.com/Dawitlior/Spotify-app",
   },
 ];
 
