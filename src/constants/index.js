@@ -25,6 +25,7 @@ import {
   // shopping,
   eazybuy,
   genius,
+  bnb,
 } from "../assets";
 
 export const navLinks = [
@@ -328,6 +329,27 @@ const projects = [
     ],
     image: genius,
     source_code_link: "https://github.com/Dawitlior/Genius",
+  },
+  {
+    name: "Rentbnb",
+    description:
+      "the Next.js 13 App Router Rentbnb, a fully functional web application showcasing the power of Next.js 13 App Router for seamless navigation. Built by leveraging React, Tailwind CSS, Prisma, MongoDB, and NextAuth, this project sets a new standard in web development.",
+    tags: [
+      {
+        name: "Next 13.4",
+        color: "white-text-gradient",
+      },
+      {
+        name: "prisma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: bnb,
+    source_code_link: "https://github.com/Dawitlior/Rentbnb",
   },
 ];
 

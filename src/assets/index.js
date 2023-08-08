@@ -35,6 +35,7 @@ import current2 from './current2.png';
 import blog from "./blog.png";
 import eazybuy from "./eazybuy.png";
 import genius from "./genius.png";
+import bnb from "./bnb.png";
 
 export {
   logo,
@@ -71,4 +72,5 @@ export {
   blog,
   eazybuy,
   genius,
+  bnb,
 };
