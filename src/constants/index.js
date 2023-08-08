@@ -285,6 +285,69 @@ const projects = [
     image: blog,
     source_code_link: "https://github.com/Dawitlior/blog-ai-app",
   },
+  {
+    name: "Blog-Ai-App",
+    description:
+      "complete full-stack application built with Next.js 13.3 that automatically generates blog post content using ChatGPT.",
+    tags: [
+      {
+        name: "React vite",
+        color: "white-text-gradient",
+      },
+      {
+        name: "prisma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Next.js 13.3",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: blog,
+    source_code_link: "https://github.com/Dawitlior/blog-ai-app",
+  },
+  {
+    name: "Blog-Ai-App",
+    description:
+      "complete full-stack application built with Next.js 13.3 that automatically generates blog post content using ChatGPT.",
+    tags: [
+      {
+        name: "React vite",
+        color: "white-text-gradient",
+      },
+      {
+        name: "prisma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Next.js 13.3",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: blog,
+    source_code_link: "https://github.com/Dawitlior/blog-ai-app",
+  },
+  {
+    name: "Blog-Ai-App",
+    description:
+      "complete full-stack application built with Next.js 13.3 that automatically generates blog post content using ChatGPT.",
+    tags: [
+      {
+        name: "React vite",
+        color: "white-text-gradient",
+      },
+      {
+        name: "prisma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Next.js 13.3",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: blog,
+    source_code_link: "https://github.com/Dawitlior/blog-ai-app",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
