@@ -23,6 +23,8 @@ import {
   blog,
   // blog
   // shopping,
+  eazybuy,
+  genius,
 } from "../assets";
 
 export const navLinks = [
@@ -286,33 +288,33 @@ const projects = [
     source_code_link: "https://github.com/Dawitlior/blog-ai-app",
   },
   {
-    name: "Blog-Ai-App",
+    name: "Eazy-Buy",
     description:
-      "complete full-stack application built with Next.js 13.3 that automatically generates blog post content using ChatGPT.",
+      "Eazy-Buy is a collaborative Electric Ecommerce Website project, developed with MERN stack, TypeScript, and React Query, delivering a seamless shopping experience for electric products. Features include a wide product catalog, quick search, detailed product info, user authentication, shopping cart, order management, payment integration, user review.",
     tags: [
       {
         name: "React vite",
         color: "white-text-gradient",
       },
       {
-        name: "prisma",
+        name: "React Query",
         color: "green-text-gradient",
       },
       {
-        name: "Next.js 13.3",
+        name: "Vercel CLI",
         color: "pink-text-gradient",
       },
     ],
-    image: blog,
-    source_code_link: "https://github.com/Dawitlior/blog-ai-app",
+    image: eazybuy,
+    source_code_link: "https://github.com/Dawitlior/Eazy-Buy",
   },
   {
-    name: "Blog-Ai-App",
+    name: "Genius",
     description:
-      "complete full-stack application built with Next.js 13.3 that automatically generates blog post content using ChatGPT.",
+      "A powerful AI Software as a service Platform(Saas), using Next.js 13 App Router, React, Prisma, Clerk, Shadcn, Tailwind, webhooks, and Stripe. a user-centric interface with seamless client-side routing.",
     tags: [
       {
-        name: "React vite",
+        name: "Next 13.4",
         color: "white-text-gradient",
       },
       {
@@ -320,33 +322,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Next.js 13.3",
+        name: "Clerk",
         color: "pink-text-gradient",
       },
     ],
-    image: blog,
-    source_code_link: "https://github.com/Dawitlior/blog-ai-app",
-  },
-  {
-    name: "Blog-Ai-App",
-    description:
-      "complete full-stack application built with Next.js 13.3 that automatically generates blog post content using ChatGPT.",
-    tags: [
-      {
-        name: "React vite",
-        color: "white-text-gradient",
-      },
-      {
-        name: "prisma",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Next.js 13.3",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: blog,
-    source_code_link: "https://github.com/Dawitlior/blog-ai-app",
+    image: genius,
+    source_code_link: "https://github.com/Dawitlior/Genius",
   },
 ];
 

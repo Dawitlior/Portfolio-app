@@ -33,6 +33,8 @@ import socialmedia from "./socialmedia.png";
 import finance from "./finance.png";
 import current2 from './current2.png';
 import blog from "./blog.png";
+import eazybuy from "./eazybuy.png";
+import genius from "./genius.png";
 
 export {
   logo,
@@ -67,4 +69,6 @@ export {
   fitness,
   shopping,
   blog,
+  eazybuy,
+  genius,
 };
