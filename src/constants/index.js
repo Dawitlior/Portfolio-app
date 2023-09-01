@@ -21,7 +21,6 @@ import {
   book,
   fitness,
   blog,
-  // shopping,
   eazybuy,
   genius,
   bnb,
