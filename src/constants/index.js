@@ -372,5 +372,4 @@ const projects = [
     source_code_link: "https://github.com/Dawitlior/Spotify-app",
   },
 ];
-
 export { services, technologies, experiences, testimonials, projects };
